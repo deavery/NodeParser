@@ -1,2 +1,2 @@
 # NodeParser
-Demonstation node for Robin Round balancer
+Demonstration node for Robin Round balancer
